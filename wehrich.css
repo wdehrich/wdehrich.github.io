@@ -3,3 +3,13 @@ body {
 	padding-top: 20px;
 	font-family: Sans-Serif;
 }
+
+#links {
+	float: left;
+}
+
+#picture {
+	display: inline-block;
+	padding-left: 100px;
+	padding-top: 100px;
+}
