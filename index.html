@@ -8,17 +8,35 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="styles/style-main.css">
+    <script type="text/javascript">
+</script>
   </head>
-  <body>
+  <body data-spy="scroll" data-target=".navbar" data-offset="50">
     
-    <div class="navbar">
+    <!--
+    <div class="navbar" id="myNavbar">
       <div class="navbar-header">
         <a class="navbar-brand" href="#home">William Ehrich</a>
       </div>
-      <a href="#contact">Contact</a>
-      <a href="#education">Education</a>
-      <a href="#home">Home</a>
+        <a href="#contact">Contact</a>
+        <a href="#education">Education</a>
+        <a href="#home">Home</a>
     </div>
+    -->
+    
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div>
+          <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+              <li><a href="#home">Home</a></li>
+              <li><a href="#education">Education</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav> 
     
     <div id="home">
       <h1> William Ehrich </h1> <br>
