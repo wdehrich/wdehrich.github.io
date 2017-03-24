@@ -39,12 +39,16 @@ img {
 #home {
   padding-left: 50px;
   height: 100vh;
+  text-align: center;
 }
 
 #education {
   padding-left: 50px;
+  background-color: white;
+  text-align: center;
 }
 
 #contact {
   padding-left: 50px;
+  text-align: center;
 }
