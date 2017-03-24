@@ -2,15 +2,47 @@ body {
   background-color: lightblue;
   padding-top: 20px;
   font-family: Sans-Serif;
+  margin:0;
 }
 
-#links {
+img {
+  max-height:70%;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
   float: left;
-  padding-left: 25px;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
-#picture {
-  display: inline-block;
+#home {
   padding-left: 50px;
-  padding-top: 100px;
+  height: 100vh;
+}
+
+#education {
+  padding-left: 50px;
+  height: 100vh;
+}
+
+#contact {
+  padding-left: 50px;
+  height: 100vh;
 }
