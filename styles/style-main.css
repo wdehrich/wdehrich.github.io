@@ -39,11 +39,6 @@ img {
 #home {
   padding-left: 50px;
   height: 100vh;
-  text-align: center;
-}
-
-#home img {
-    vertical-align: middle;
 }
 
 #education {
