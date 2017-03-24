@@ -55,15 +55,3 @@ img {
   padding-top: 50px;
   text-align: center;
 }
-
-/*test*/
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-li {
-    display: inline;
-}
