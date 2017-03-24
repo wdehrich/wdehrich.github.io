@@ -29,7 +29,7 @@ img {
 }
 
 .navbar a {
-  float: right;
+  float: left;
   display: block;
   color: #f2f2f2;
   text-align: center;
@@ -56,4 +56,16 @@ img {
   padding-top: 50px;
   padding-left: 50px;
   text-align: center;
+}
+
+/*test*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
 }
