@@ -40,7 +40,10 @@ img {
   padding-left: 50px;
   height: 100vh;
   text-align: center;
-  margin-top: auto;
+}
+
+#home img {
+    vertical-align: middle;
 }
 
 #education {
