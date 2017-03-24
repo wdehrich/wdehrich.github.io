@@ -3,6 +3,7 @@ body {
   padding-top: 20px;
   font-family: Sans-Serif;
   margin:0;
+  position: relative;
 }
 
 img {
@@ -37,18 +38,21 @@ img {
 }
 
 #home {
+  padding-top: 50px;
   padding-left: 50px;
   height: 100vh;
   text-align: center;
 }
 
 #education {
+  padding-top: 50px;
   padding-left: 50px;
   background-color: white;
   text-align: center;
 }
 
 #contact {
+  padding-top: 50px;
   padding-left: 50px;
   text-align: center;
 }
