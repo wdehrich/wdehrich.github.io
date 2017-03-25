@@ -56,3 +56,13 @@ img {
   text-align: center;
   height: 100vh;
 }
+
+#arrow img{
+  max-height:10%;
+  max-width: 10%;
+}
+
+#profilePicture img{
+  max-height: 30%;
+  max-width: 30%;
+}
