@@ -42,6 +42,7 @@ img {
   padding-top: 50px;
   height: 100vh;
   text-align: center;
+  min-height: fit-content;
 }
 
 #education {
@@ -49,12 +50,14 @@ img {
   background-color: white;
   text-align: center;
   height: 100vh;
+  min-height: fit-content;
 }
 
 #contact {
   padding-top: 50px;
   text-align: center;
   height: 100vh;
+  min-height: fit-content;
 }
 
 img.one{
