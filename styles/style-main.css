@@ -57,12 +57,12 @@ img {
   height: 100vh;
 }
 
-#arrow img{
-  max-height:10%;
-  max-width: 10%;
+img.one{
+  max-height:40%;
+  max-width: 40%;
 }
 
-#profilePicture img{
-  max-height: 30%;
-  max-width: 30%;
+img.two{
+  max-height:5%;
+  max-width: 5%;
 }
