@@ -75,6 +75,10 @@ img.northwestern {
   min-height: fit-content;
 }
 
+.page-footer {
+  background-color: lightblue;
+}
+
 img.northwestern{
   max-height:70%;
   max-width: 70%;
