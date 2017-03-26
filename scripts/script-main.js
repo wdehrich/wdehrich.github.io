@@ -19,7 +19,7 @@ $(document).on('click', 'a[href^="#"]', function(e) {
     $('body, html').animate({scrollTop: pos});
 });
 
-
+// type.js animation
 $(document).ready(function () {
     $(function () {
         $(".hello").typed({
