@@ -1,9 +1,5 @@
 .navbar {
-  overflow: hidden;
   background-color: #003366;
-  position: fixed;
-  top: 0;
-  width: 100%;
 }
 
 a.navbar-brand {
