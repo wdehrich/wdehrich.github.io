@@ -28,14 +28,6 @@ img.northwestern {
   float: left;
 }
 
-.hello {
-  width: auto;
-  display: inline-block;
-  display: inline;
-  color: black;
-  font-size: 60px;
-}
-
 .navbar a {
   float: left;
   display: block;
@@ -53,6 +45,14 @@ img.northwestern {
   background: url('../images/bg-yosemite.jpg') center / cover;
   text-align: right;
   padding-right: 50px;
+}
+
+.hello {
+  width: auto;
+  display: inline-block;
+  display: inline;
+  color: black;
+  font-size: 60px;
 }
 
 #education {
