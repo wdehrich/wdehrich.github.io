@@ -24,6 +24,16 @@ img.northwestern {
   width: 100%;
 }
 
+a.navbar-brand {
+	color: #003366 !important;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.navbar-header {
+	background-color: gray;
+	background-image: none;
+}
 /*
 .navbar-header {
   float: left;
