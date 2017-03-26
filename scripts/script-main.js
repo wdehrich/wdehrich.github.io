@@ -23,7 +23,7 @@ $(document).on('click', 'a[href^="#"]', function(e) {
 $(document).ready(function () {
     $(function () {
         $(".hello").typed({
-            strings: ["Hello! My name is Will  "],
+            strings: ["Hi! I'm Will."],
             typeSpeed: 100
         });
     });
