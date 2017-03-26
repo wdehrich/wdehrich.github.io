@@ -18,22 +18,19 @@ img.northwestern {
 
 .navbar {
   overflow: hidden;
-  /*
-  background-color: #444;
-  background-color: #003300;
-  */
   background-color: #003366;
   position: fixed;
   top: 0;
   width: 100%;
 }
 
+/*
 .navbar-header {
   float: left;
 }
 
 .navbar a {
-  float: left;
+  float: right;
   display: block;
   color: #f2f2f2;
   text-align: center;
@@ -41,7 +38,8 @@ img.northwestern {
   text-decoration: none;
   font-size: 17px;
 }
-
+ */
+ 
 #home {
   padding-top: 50px;
   height: 100vh;
