@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  /*background-color: lightblue;*/
   padding-top: 20px;
   font-family: Sans-Serif;
   margin:0;
@@ -61,7 +61,7 @@ img.northwestern {
 
 #education {
   padding-top: 50px;
-  background-color: white;
+  background-color: lightblue;
   text-align: center;
   height: 100vh;
   min-height: fit-content;
@@ -69,6 +69,7 @@ img.northwestern {
 
 #contact {
   padding-top: 50px;
+  background-color: #ffcc99;
   text-align: center;
   height: 100vh;
   min-height: fit-content;
