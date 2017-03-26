@@ -85,6 +85,7 @@ img.arrow-down{
 
 /* for type.js*/
 .typed-cursor{
+    font-size: 60px; /* added so that the font size matches he text in .hello */
     opacity: 1;
     -webkit-animation: blink 0.7s infinite;
     -moz-animation: blink 0.7s infinite;
