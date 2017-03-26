@@ -18,7 +18,11 @@ img.northwestern {
 
 .navbar {
   overflow: hidden;
+  /*
   background-color: #444;
+  background-color: #003300;
+  */
+  background-color: #003366;
   position: fixed;
   top: 0;
   width: 100%;
