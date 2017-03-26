@@ -6,7 +6,7 @@ body {
   position: relative;
 }
 
-img {
+img.northwestern {
   max-height:70%;
   max-width: 70%;
 }
@@ -49,11 +49,8 @@ img {
 #home {
   padding-top: 50px;
   height: 100vh;
-  
   min-height: fit-content;
-  
   background: url('../images/bg-yosemite.jpg') center / cover;
-  
   text-align: right;
   padding-right: 50px;
 }
@@ -73,9 +70,9 @@ img {
   min-height: fit-content;
 }
 
-img.profilePicture{
-  max-height:40%;
-  max-width: 40%;
+img.northwestern{
+  max-height:70%;
+  max-width: 70%;
 }
 
 img.arrow-down{
