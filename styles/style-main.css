@@ -31,6 +31,7 @@ img {
 .hello {
   width: auto;
   display: inline-block;
+  display: inline;
 }
 
 .navbar a {
@@ -46,6 +47,7 @@ img {
 #home {
   padding-top: 50px;
   height: 100vh;
+  
   min-height: fit-content;
   
   background: url('../images/img-yosemite-2.jpg') center / cover;
@@ -85,9 +87,6 @@ img.arrow-down{
     -webkit-animation: blink 0.7s infinite;
     -moz-animation: blink 0.7s infinite;
     animation: blink 0.7s infinite;
-    
-    display: inline;
-    display: inline-block;
 }
 @keyframes blink{
     0% { opacity:1; }
