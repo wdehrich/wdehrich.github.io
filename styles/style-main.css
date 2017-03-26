@@ -43,6 +43,10 @@ img {
   height: 100vh;
   text-align: center;
   min-height: fit-content;
+  
+  /*
+  background: url('../images/img-william-ehrich.jpg') center / cover;
+  */
 }
 
 #education {
@@ -60,12 +64,12 @@ img {
   min-height: fit-content;
 }
 
-img.one{
+img.profilePicture{
   max-height:40%;
   max-width: 40%;
 }
 
-img.two{
+img.arrow-down{
   max-height:5%;
   max-width: 5%;
 }
