@@ -1,5 +1,4 @@
 body {
-  /*background-color: lightblue;*/
   padding-top: 20px;
   font-family: Sans-Serif;
   margin:0;
@@ -15,40 +14,6 @@ img.northwestern {
   padding: 16px;
   margin-top: 30px;
 }
-
-.navbar {
-  overflow: hidden;
-  background-color: #003366;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-a.navbar-brand {
-	color: #003366 !important;
-  font-weight: bold;
-  font-style: italic;
-}
-
-.navbar-header {
-	background-color: gray;
-	background-image: none;
-}
-/*
-.navbar-header {
-  float: left;
-}
-
-.navbar a {
-  float: right;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
- */
  
 #home {
   padding-top: 50px;
