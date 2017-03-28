@@ -39,6 +39,14 @@ img.northwestern {
   min-height: fit-content;
   }
 
+#work {
+  padding-top: 50px;
+  background-color: #ccffcc;
+  text-align: center;
+  height: 100vh;
+  min-height: fit-content;
+  }
+    
 #contact {
   padding-top: 50px;
   background-color: #ffcc99;
