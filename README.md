@@ -1,4 +1,4 @@
-# wehrich.github.io
+# wdehrich.github.io
 
 I am currently building a personal website.
 
