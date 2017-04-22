@@ -14,6 +14,51 @@ a.navbar-brand {
   background-image: none;
 }
 
-.navbar-toggle {
-  background-color: #003366 !important;
+.navbar-toggle.collapsed {
+  background-color: #003366 !important; 
 }
+
+.navbar-toggle.collapsed .top-bar {
+  transform: rotate(0deg);
+  transform-origin: 10% 90%;
+  background-color: white !important;
+}
+
+.navbar-toggle.collapsed .middle-bar {
+  transform: rotate(0deg);
+  transform-origin: 10% 90%;
+  opacity: 1;
+  background-color: white !important;
+}
+  
+.navbar-toggle.collapsed .bottom-bar {
+  transform: rotate(0deg);
+  transform-origin: 10% 90%;
+  background-color: white !important;
+}
+
+.navbar-toggle {
+  background-color: #003366 !important; 
+}
+
+.navbar-toggle .icon-bar {
+  width: 22px;
+  transition: all 0.2s;
+}
+
+.navbar-toggle .top-bar{
+  background-color: #ff4d4d !important; 
+  transform: rotate(45deg);
+  transform-origin: 10% 10%;
+}
+
+.navbar-toggle .middle-bar{
+  opacity: 0;
+}
+
+.navbar-toggle .bottom-bar{
+  background-color: #ff4d4d !important; 
+  transform: rotate(-45deg);
+  transform-origin: 10% 90%;
+}
+
