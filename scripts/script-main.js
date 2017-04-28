@@ -31,9 +31,28 @@ $(document).ready(function () {
 
 var bg = $("#home, #education, #work, #projects, #contact");
 
+var HEIGHT_CHANGE_TOLERANCE = 100;
+var currentHeight = $(window).height();
+
+function resizeBackground() {
+    console.log($(window).height())
+    if(Math.abs(currentHeight - $(window).height()) > HEIGHT_CHANGE_TOLERANCE) {
+        console.log('Hello');
+        currentHeight = $(window).height();
+        bg.height(currentHeight);
+    }
+
+}
+
+$(window).resize(resizeBackground);
+resizeBackground();
+
+
+/*
 function resizeBackground() {
     bg.height($(window).height());
 }
 
 $(window).resize(resizeBackground);
 resizeBackground();
+*/
