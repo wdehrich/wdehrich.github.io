@@ -33,6 +33,8 @@ var bg = $("#home, #education, #work, #projects, #contact");
 
 var HEIGHT_CHANGE_TOLERANCE = 100;
 var currentHeight = $(window).height();
+console.log('Hi');
+bg.height(currentHeight);
 
 function resizeBackground() {
     console.log($(window).height())
