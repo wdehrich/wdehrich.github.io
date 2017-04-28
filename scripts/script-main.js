@@ -34,14 +34,14 @@ var bg = $("#home, #education, #work, #projects, #contact");
 var HEIGHT_CHANGE_TOLERANCE = 100;
 var currentHeight = $(window).height();
 console.log('Hi');
-bg.height(currentHeight);
+bg.height(currentHeight + 60);
 
 function resizeBackground() {
     console.log($(window).height())
     if(Math.abs(currentHeight - $(window).height()) > HEIGHT_CHANGE_TOLERANCE) {
         console.log('Hello');
         currentHeight = $(window).height();
-        bg.height(currentHeight);
+        bg.height(currentHeight + 60);
     }
 
 }
