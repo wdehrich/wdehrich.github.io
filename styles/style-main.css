@@ -15,7 +15,6 @@ img.northwestern {
 }
  
 #home {
-  /*transition: height 999999s;*/
   padding-top: 50px;
   /*height: 100vh;*/
   min-height: fit-content;
@@ -33,7 +32,6 @@ img.northwestern {
 }
 
 #education {
-  /*transition: height 999999s;*/
   padding-top: 50px;
   background-color: lightblue;
   text-align: center;
@@ -42,7 +40,6 @@ img.northwestern {
   }
 
 #work {
-  /*transition: height 999999s;*/
   padding-top: 50px;
   background-color: #ccffcc;
   text-align: center;
@@ -51,7 +48,6 @@ img.northwestern {
   }
 
 #projects {
-  /*transition: height 999999s;*/
   padding-top: 50px;
   background-color: #ccccff;
   text-align: left;
@@ -60,7 +56,6 @@ img.northwestern {
   }
   
 #contact {
-  /*transition: height 999999s;*/
   padding-top: 50px;
   background-color: #ffcc99;
   text-align: center;
