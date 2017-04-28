@@ -35,7 +35,7 @@ img.northwestern {
   padding-top: 50px;
   background-color: lightblue;
   text-align: center;
-  height: 100vh;
+  /*height: 100vh;*/
   min-height: fit-content;
   }
 
@@ -43,16 +43,15 @@ img.northwestern {
   padding-top: 50px;
   background-color: #ccffcc;
   text-align: center;
-  height: 100vh;
+  /*height: 100vh;*/
   min-height: fit-content;
   }
 
 #projects {
   padding-top: 50px;
-
   background-color: #ccccff;
   text-align: left;
-  height: 100vh;
+  /*height: 100vh;*/
   min-height: fit-content;
   }
   
@@ -60,7 +59,7 @@ img.northwestern {
   padding-top: 50px;
   background-color: #ffcc99;
   text-align: center;
-  height: 100vh;
+  /*height: 100vh;*/
   min-height: fit-content;
 }
 

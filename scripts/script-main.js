@@ -28,3 +28,12 @@ $(document).ready(function () {
         });
     });
 });
+
+var bg = $("#education, #work, #projects, #contact");
+
+function resizeBackground() {
+    bg.height($(window).height());
+}
+
+$(window).resize(resizeBackground);
+resizeBackground();
