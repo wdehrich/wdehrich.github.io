@@ -16,7 +16,7 @@ img.northwestern {
  
 #home {
   padding-top: 50px;
-  height: 100vh;
+  /*height: 100vh;*/
   min-height: fit-content;
   background: url('../images/bg-yosemite.jpg') center / cover;
   text-align: right;

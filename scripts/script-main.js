@@ -29,7 +29,7 @@ $(document).ready(function () {
     });
 });
 
-var bg = $("#education, #work, #projects, #contact");
+var bg = $("#home, #education, #work, #projects, #contact");
 
 function resizeBackground() {
     bg.height($(window).height());
