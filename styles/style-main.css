@@ -39,6 +39,7 @@ img.northwestern {
   flex-direction: column;
   
   /*padding-top: 50px;*/
+  padding-bottom: 50px;
   background-color: lightblue;
   text-align: center;
   /*height: 100vh;*/
@@ -53,6 +54,7 @@ img.northwestern {
   flex-direction: column;
   
   /*padding-top: 50px;*/
+  padding-bottom: 50px;
   background-color: #ccffcc;
   text-align: center;
   /*height: 100vh;*/
@@ -67,6 +69,7 @@ img.northwestern {
   flex-direction: column;
   
   /*padding-top: 50px;*/
+  padding-bottom: 50px;
   background-color: #ccccff;
   text-align: left;
   /*height: 100vh;*/
@@ -81,6 +84,7 @@ img.northwestern {
   flex-direction: column;
   
   /*padding-top: 50px;*/
+  padding-bottom: 50px;
   background-color: #ffcc99;
   text-align: center;
   /*height: 100vh;*/
