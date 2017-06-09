@@ -56,6 +56,11 @@ img.northwestern {
   }
   
 #contact {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  
   padding-top: 50px;
   background-color: #ffcc99;
   text-align: center;
