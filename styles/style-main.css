@@ -73,7 +73,7 @@ img.northwestern {
   background-color: #ccccff;
   text-align: left;
   /*height: 100vh;*/
-  min-height: fit-content;
+  min-height: fit-content(300%);
   }
   
 #groups {
