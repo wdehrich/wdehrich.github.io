@@ -76,7 +76,7 @@ img.northwestern {
   min-height: fit-content;
   }
   
-#organizations {
+#groups {
   /*flexbox*/
   display: flex;
   justify-content: center;
