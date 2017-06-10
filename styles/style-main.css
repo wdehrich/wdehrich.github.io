@@ -76,6 +76,36 @@ img.northwestern {
   min-height: fit-content;
   }
   
+#organizations {
+  /*flexbox*/
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  
+  /*padding-top: 50px;*/
+  padding-bottom: 50px;
+  background-color: #ccffcc;
+  text-align: left;
+  /*height: 100vh;*/
+  min-height: fit-content;
+  }
+
+#volunteering {
+  /*flexbox*/
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column;
+  
+  /*padding-top: 50px;*/
+  padding-bottom: 50px;
+  background-color: #ccccff;
+  text-align: left;
+  /*height: 100vh;*/
+  min-height: fit-content;
+  }
+  
 #contact {
   /*flexbox*/
   display: flex;
