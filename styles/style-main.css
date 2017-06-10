@@ -144,3 +144,8 @@ img.arrow-up{
 #projects-title {
   text-align: center;
 }
+
+img.card-picture{
+  height:50%;
+  width: 50%;
+}
