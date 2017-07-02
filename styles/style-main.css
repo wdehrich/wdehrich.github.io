@@ -32,7 +32,7 @@ img.northwestern {
 
 .hello {
   width: auto;
-  display: inline-block;
+  /*display: inline-block;*/
   display: inline;
   color: black;
   font-size: 60px;
